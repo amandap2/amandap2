@@ -1,7 +1,7 @@
 # 👋 Hello! Welcome to my Village! Or Github profile.
 
 ## My name is Amanda Paim!
-- 🔭 I’m currently working as fullstack developer .NET/Javascript.
+- 🔭 I’m currently working as a fullstack developer in .NET/Javascript.
   
 - 🌱 I’m currently learning more about C#/.NET, Android and Angular.
 
